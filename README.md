@@ -6,15 +6,15 @@ Daily R programming exercises and projects for bioinformatics, following a perso
 
 ## R Programming for Bioinformatics: From Beginner to Advanced
 
-**Course Code:** BIOINF 5XX (e.g., BIOINF 501)
-**Credits:** 3-4
+
+
 **Prerequisites:** Basic understanding of molecular biology and genetics. No prior programming experience is required, but a strong analytical aptitude is beneficial.
 
 ### Course Description:
 This course offers an intensive and practical exploration of R programming, meticulously crafted for bioinformatics students. Beginning with the absolute fundamentals, we'll rapidly progress to advanced data manipulation, robust statistical analysis, and sophisticated data visualization techniques. A core tenet of this course is the direct application of R to authentic biological datasets, leveraging the extensive capabilities of Bioconductor. Students will gain proficiency in developing reproducible research workflows, enabling them to tackle complex bioinformatics challenges, from large-scale genomic data analysis to intricate multi-omics integration. By course completion, you'll be an independent and confident R user, ready to contribute meaningfully to cutting-edge biological research.
 
 ### Course Objectives:
-Upon successful completion of this course, students will be able to:
+Upon successful completion of this course, you will be able to:
 
 * **Master R Fundamentals:** Confidently write, debug, and execute R code, understanding core syntax, data types, and control flow.
 * **Perform Expert Data Wrangling:** Efficiently import, clean, transform, and manage diverse biological data formats using the tidyverse ecosystem.
@@ -34,12 +34,6 @@ Upon successful completion of this course, students will be able to:
 * **Bioconductor Packages:** `BiocManager`, `Biostrings`, `GenomicRanges`, `GenomicFeatures`, `SummarizedExperiment`, `DESeq2`, `edgeR`, `limma`, `Rsamtools`, `VariantAnnotation`, `Gviz`, `clusterProfiler`, `Seurat`, `MSnbase`, `MultiAssayExperiment`, `org.Hs.eg.db`, `TxDb.Hsapiens.UCSC.hg38.knownGene`.
 * **Git & GitHub:** For version control and collaborative coding.
 
-### Assessment:
-
-* **Weekly Coding Assignments/Problem Sets (40%):** Hands-on application of concepts, with increasing complexity. Includes mini-projects analyzing small biological datasets.
-* **Midterm Exam (20%):** A take-home or in-class exam covering R fundamentals, data wrangling, basic statistics, and initial Bioconductor concepts.
-* **Final Project (30%):** A comprehensive, independent bioinformatics data analysis project using R. Students will choose a biological question, acquire appropriate data, analyze it using learned techniques, and present their findings in a reproducible RMarkdown report.
-* **Class Participation & Quizzes (10%):** Engagement in discussions, asking insightful questions, and short in-class quizzes to reinforce concepts.
 
 ---
 
